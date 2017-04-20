@@ -1,0 +1,57 @@
+.content {
+    width: 1000px;
+    margin: auto;
+    border: 1px solid #C0C0C0;
+    border-radius: 4px;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+.img {
+    text-align: center;
+    margin-bottom: 100px;
+    margin-top: 150px;
+}
+
+.example {
+    width: 300px;
+    height: 60px;
+    margin: 30px auto;
+    font-size: 40px;
+    text-align: center;
+}
+
+.canvas, .canvas2 {
+    position: absolute;
+    top: 120px;
+}
+
+.inputArgs {
+    width: 20px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: 600;
+    border-width: thin;
+    z-index: 999;
+    position: absolute;
+}
+
+.spanArgs {
+    position: absolute;
+    font-weight: 600;
+}
+
+.orangeSpan {
+    background-color: #FF8C00;
+    padding: 0 8px;
+    border-radius: 4px;
+}
+
+.inputAnswer {
+    width: 60px;
+    height: 40px;
+    padding: 4px;
+    border-radius: 5px;
+    text-align: center;
+    border-width: thin;
+    font-size: 40px;
+}
